@@ -1,0 +1,14 @@
+{
+  "name": "TodoMVC",
+  "short_name": "TodoMVC",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "whitesmoke",
+  "description": "A PWA'd todo list app.",
+  "theme_color": "whitesmoke",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
